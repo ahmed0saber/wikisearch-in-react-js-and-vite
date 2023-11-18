@@ -1,0 +1,11 @@
+.item {
+    margin-top: 12px;
+    border: 1px solid #10101031;
+    padding: 12px;
+}
+
+.btns {
+    display: flex;
+    align-items: stretch;
+    gap: 12px;
+}
